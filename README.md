@@ -1,3 +1,6 @@
+# 致敬！
+这是国外一大佬写的，觉得不错，放在自己git用来学习
+大佬仓库地址：https://github.com/lucaspulliese/next-ecommerce?tab=readme-ov-file
 # Updates!
 
 This new version contains an integration with redux-toolkit instead of redux and it's witch Typescript :)
